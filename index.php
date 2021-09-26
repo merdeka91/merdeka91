@@ -12,7 +12,7 @@
     		<h1><img src="logo.png" width="100px"/></h1>
 			<h3> WEB PENGUMPULAN TUGAS SMAN 1 Garut</h3>
         </div>
-        
+      
         <div id="menu">
         	<a href="index.php" class="active">Home</a>
             <a href="upload.php">Upload</a>
