@@ -25,6 +25,5 @@
             <p>Web Pengumpulan Tugas ini dibuat untuk memudahkan siswa SMAN 1 Garut dalam mengumpulkan tugas/aktivitas khususnya praktikum Informatika. Silahkan klik menu <b>Upload</b> untuk mengumpulkan tugas dan klik menu <b> Download</b> untuk mengunduh dokumen.</p>
         </div>
     </div>
-
 </body>
 </html>
