@@ -6,7 +6,6 @@
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-
 	<div id="container">
     	<div id="header">
     		<h1><img src="logo.png" width="100px"/></h1>
