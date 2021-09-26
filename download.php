@@ -28,8 +28,8 @@
             	<tr>
                 	<th width="30">No.</th>
                     <th width="80">Tgl. Upload</th>
-                    <th>Nama File</th>
-                    <th width="70">Tipe</th>
+                    <th>Nama File</th> 
+			<th width="70">Tipe</th>
                     <th width="70">Ukuran</th>
                 </tr>
                 <?php
